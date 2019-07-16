@@ -11,4 +11,4 @@ This is a GUI for an auction system, the functions and buttons are not coordinat
 ### Bidding
 ![Screenshot_6](https://user-images.githubusercontent.com/50258296/61293303-cfaf3f80-a7ec-11e9-9684-da8ceb7fe226.png)
 ## Place A Bid
-![Screenshot_4](https://user-images.githubusercontent.com/50258296/61293350-eeadd180-a7ec-11e9-9795-d5e6bd0d3521.png)
+![Screenshot_4](https://user-images.githubusercontent.com/50258296/61293431-1b61e900-a7ed-11e9-8a8e-1b3931ae5047.png)
