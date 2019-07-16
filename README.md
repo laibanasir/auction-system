@@ -1,5 +1,12 @@
 # auction-system
 This is a GUI for an auction system, the functions and buttons are not coordinated but the GUI works accurately 
+### Features
+1. #### Main page - consists of buttons that function to open a unique window.
+2. #### Call a bid - A form to set up an item for bidding
+3. #### Place a bid - A window where you can access items that have been set up for bidding and place a bid
+4. #### Authorized Persons Only - A login window that takes you to the company's bank status and shows information related to the bids
+5. #### Manage ID - A registartion window that lets new users register to the system
+6. #### Exit
 ## Main page
 ![Screenshot_1](https://user-images.githubusercontent.com/50258296/61293017-2b2cfd80-a7ec-11e9-96ed-4b701d6bee8d.png)
 ## Manage ID
